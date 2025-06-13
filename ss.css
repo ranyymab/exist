@@ -1,0 +1,45 @@
+body{
+    background-color: beige;
+
+}
+p{
+    text-align: center;
+    background-color: azure;
+    grid: 5px;
+    border: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+ 
+}
+marquee{
+    color: aqua;
+    font-size: xx-large;
+
+}
+.ahah{
+    grid:20px;
+    border:10px;
+    color:red;
+
+
+
+
+}
+button{
+    color:gray;
+    height: 50px;
+    width: 50px;
+    background-color: blanchedalmond;
+    border-color: brown;
+}
+
+.lele{
+    border-width: 50px;
+    grid:100px;
+    border-color: blue;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+
+}
+
